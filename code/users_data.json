@@ -1,0 +1,10 @@
+{
+    "lop" : {"password": "12345678", "role": "MANAGER"},
+    "larry" : {"password": "laaryw!", "role": "MANAGER"},
+    "semen" : {"password": "minecraft", "role": "MANAGER"},
+    "efim" : {"password": "python4ever", "role": "ADMIN"},
+    "ura" : {"password": "12hp", "role": "MANAGER"},
+    "vova" : {"password": "MAGISTER123", "role": "MANAGER"},
+    "LEVA" : {"password": "hol124", "role": "ADMIN"}
+
+}
