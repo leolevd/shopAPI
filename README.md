@@ -60,7 +60,7 @@ Authentication i835987398 <-- Login:password in base64
 2. Orders
 ```json
 {
-    {"status": 0, "in": ["3", "2", "5"], "email": "eee@mail.com"}]
+    {"status": 0, "in": ["3", "2", "5"], "email": "eee@mail.com"}
 }
 ```
 3. Users
